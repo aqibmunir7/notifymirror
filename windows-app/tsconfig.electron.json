@@ -1,0 +1,1 @@
+{"compilerOptions":{"esModuleInterop":true,"lib":["ES2020"],"module":"commonjs","moduleResolution":"node","outDir":"dist-electron","skipLibCheck":true,"strict":true,"target":"ES2020"},"include":["electron"]}

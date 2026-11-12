@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-electron/
+*.log
+.DS_Store
+android-app/.gradle/
+android-app/app/build/
+android-app/local.properties
+android-app/*.iml
+windows-app/node_modules/
+windows-app/dist/
+windows-app/dist-electron/
+*.apk
+windows-app/tsconfig.tsbuildinfo
+android-app/gradle-inprocess.sh
+android-app/gradle/wrapper/gradle-wrapper.jar
